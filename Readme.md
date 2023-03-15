@@ -17,7 +17,7 @@ Página Web criada com base em treinamento da Alura, de uma página da Alura Plu
 
 ## 📁 Acesso ao projeto
 
-[Clique aqui para acessar](https://about-me-neon.vercel.app/index.html)
+[Clique aqui para acessar](https://aluraplus-w93a8i22z-ericksilverio00.vercel.app/)
 
 ## 🛠️ Abrir e rodar o projeto
 
